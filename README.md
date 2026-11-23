@@ -2,6 +2,8 @@
 
 A Telegram bot that watches cryptocurrency prices and messages you the moment a price reaches your level. You don't have to stare at charts.
 
+<p align="center"><img src="docs/demo.gif" width="320" alt="Price alert bot demo: pick a coin, set a level, get notified"></p>
+
 ## What it does
 
 - **Any coin on CoinGecko**, about 15,000 of them. Type a ticker or a name, like `BTC`, `ETH` or `solana`. If several coins share a ticker, the bot asks you to pick one.
